@@ -1,0 +1,1 @@
+This is tools that a auto parse json character string to cpp object.
